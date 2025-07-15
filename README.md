@@ -27,15 +27,3 @@ pip install -r requirements.txt
 streamlit run main.py
 
 
----
-
-### 📌 Cara upload ke GitHub:
-
-1. Simpan teks di atas ke file `README.md` di root direktori repository-mu.  
-2. Commit dan push:
-
-```bash
-git add README.md
-git commit -m "Add README file"
-git push origin master
-
